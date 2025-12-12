@@ -5,7 +5,7 @@
 ![](anime.gif)
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=siegrin&theme=radical" alt="GitHub Streak" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siegrin&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=somebodymeee&layout=compact&theme=radical" alt="Top Languages" />
 </p>
