@@ -17,26 +17,16 @@
 </p> -->
 
 ---
-
 ## 📊 Language Usage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,dart,py&theme=dark" />
+</p>
 
-<table align="center" style="max-width:1000px; width:100%;">
-  <tr>
-    <td width="50%" align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=villhazex&layout=compact&theme=tokyonight&hide_border=true"
-        style="width:100%;"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=villhazex&theme=tokyonight&hide_border=true"
-        style="width:100%;"
-      />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=villhazex&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 ## 🎮 Connect With Me
