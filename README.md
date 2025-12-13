@@ -18,55 +18,14 @@
 
 ---
 
+## 📊 Language Usage
 <p align="center">
-  <img src="anime.gif" style="max-width:500px; width:100%;" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=villhazex&layout=compact&theme=tokyonight&hide_border=true"
+    style="width:100%; max-width:1000px;"
+  />
 </p>
 
----
-
-<div align="center" style="max-width:500px; margin:auto;">
-  <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
-    
-    <div style="flex:1 1 240px; text-align:center;">
-      <b>📊 Language Usage</b><br><br>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=villhazex&layout=compact&theme=tokyonight&hide_border=true"
-        style="width:100%;"
-      />
-    </div>
-
-    <div style="flex:1 1 240px; text-align:center;">
-      <b>🔥 GitHub Streak</b><br><br>
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=villhazex&theme=tokyonight&hide_border=true"
-        style="width:100%;"
-      />
-    </div>
-
-  </div>
-</div>
-
-
-## 📊 Language Usage
-
-<table align="center" width="900">
-  <tr>
-    <td width="50%" align="center">
-      <b>📊 Language Usage</b><br><br>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=villhazex&layout=compact&theme=tokyonight&hide_border=true"
-        width="240"
-      />
-    </td>
-    <td width="50%" align="center">
-      <b>🔥 GitHub Streak</b><br><br>
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=villhazex&theme=tokyonight&hide_border=true"
-        width="240"
-      />
-    </td>
-  </tr>
-</table>
 
 ---
 ## 🎮 Connect With Me
