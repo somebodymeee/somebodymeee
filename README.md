@@ -25,7 +25,7 @@
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -34,7 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true" />
 </p>
 
----
+--- -->
 
 ## 🎮 Connect With Me
 <p align="center">
