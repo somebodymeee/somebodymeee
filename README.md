@@ -5,65 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com
-      ?font=Fira+Code
-      &color=7AA2F7
-      &size=42
-      &center=true
-      &vCenter=true
-      &width=1000
-      &lines=👋+Hi,+I'm+Villhaze!;
-      Anime+Style+Developer;
-      Code+%E2%9C%A8+Create+%E2%9C%A8+Repeat"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=90&section=header"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=90&section=footer"/>
-</p>
-
-## 📊 Language Usage
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,dart,py&theme=dark" />
-</p>
-
-<p align="center">
-  <sub>Powered by logic, curiosity, and late-night coding 🌙</sub>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/
-        ?username=villhazex
-        &layout=compact
-        &theme=tokyonight
-        &hide_border=true"
-        width="420"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://nirzak-streak-stats.vercel.app/
-        ?user=villhazex
-        &theme=tokyonight
-        &hide_border=true"
-        width="420"
-      />
-    </td>
-  </tr>
-</table>
-
-
-<p align="center">
   <img src="anime.gif"/>
 </p>
 
