@@ -37,6 +37,9 @@
   <a href="https://monkeytype.com/profile/Villhaze">
     <img src="https://img.shields.io/badge/Monkeytype-FFD369?style=for-the-badge&logo=keyboard&logoColor=000000"/>
   </a>
+    <a href="https://tracker.gg/valorant/profile/riot/NASI%20PADANG%23real">
+    <img src="https://img.shields.io/badge/VALORANT-FA4454?style=for-the-badge&logo=valorant&logoColor=white"/>
+  </a>
 </p>
 
 ---
