@@ -31,7 +31,7 @@
     </td>
     <td>
       <img
-        src="https://nirzak-streak-stats.vercel.app/?user=villhazex&theme=tokyonigh&hide_border=true"
+        src="https://nirzak-streak-stats.vercel.app/?user=villhazex&layout=compact&theme=tokyonight&hide_border=true"
         width="420"
       />
     </td>
